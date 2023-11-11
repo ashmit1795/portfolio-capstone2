@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1{
+    font-weight: 700;
+}
+
+code#dev-verse{
+    color: #232D3F;
+    font-size: 37px;
+    display: inline-block;
+}
